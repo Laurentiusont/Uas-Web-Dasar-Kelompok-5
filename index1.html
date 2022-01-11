@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>replit</title>
+    <link rel="stylesheet" href="index.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+     </head>
+  <body>
+<ul>
+    <li id="z"><a href="halaman2.html"></a></li>
+        <li><a id="qq" href="index2.html">Home</a></li>
+        <li><a id="qq" href="halamanabout.html">About</a></li>
+</ul> 
+<div id="a">
+  Database Populasi<br>
+  USA<br>
+  </div>
+ 
+
+  <table>
+    <tr>
+      <td>Tahun</td>
+      <td>Jumlah Populasi</td>
+    </tr>
+    <tr>
+      <td id="a1"> </td>
+      <td id="b1"> </td>
+    </tr>
+    <tr>
+      <td id="a2"> </td>
+      <td id="b2"> </td>
+    </tr>
+    <tr>
+      <td id="a3"> </td>
+      <td id="b3"> </td>
+    </tr>
+    <tr>
+      <td id="a4"> </td>
+      <td id="b4"> </td>
+    </tr>
+    <tr>
+      <td id="a5"> </td>
+      <td id="b5"> </td>
+    </tr>
+    <tr>
+      <td id="a6"> </td>
+      <td id="b6"> </td>
+    </tr>
+
+  </table>
+
+   <div id="c">
+  <a  href="halaman2.html">More</a></div>
+  <script>
+    $.getJSON("https://datausa.io/api/data?drilldowns=Nation&measures=Population",(result) => {
+    for (let i=0;i<result.data.length;i++){
+    $("#a"+i).append(result.data[i].Year)  
+    $("#b"+i).append(result.data[i].Population)   
+    }
+                })
+  </script>
+  </body>
+</html>
