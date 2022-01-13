@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="index2.css">
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body>
+    <ul>
+        <li id="bdr"><img id="br" src="bendera.png"></li>
+        <li id="z"><div id="us"></div></li>
+        <li><a id="qq" href="index1.html">Home</a></li>
+        <li><a id="qq" href="index2.html">Details</a></li>
+    </ul> 
+    <div id="e">
+    <fieldset>
+        <legend>City</legend>
+        <label for="browser">Name </label>
+        <input list="a" name="browser" id="c">
+        <datalist id="a">
+
+        </datalist>
+        <p><input type="submit" value="Sarch" onclick="klik()"></p>
+        <div id="mrq"><marquee direction="left" id="gg"> Pilih negara bagian untuk menemukan informasi lengkap  </marquee></div>
+    </fieldset>
+    </div>
+    <div id="tpl">
+        <div id="pet">
+
+        </div>
+        <div id="ket">
+
+        </div>
+    </div>
+    <script>
+        function klak(){
+        document.querySelector("#us").innerHTML="";
+        for(let i=1;i<24;i++){
+        setTimeout(jalan,500*i);
+        function jalan(){
+        let a="UNITED STATE POPULATION";
+        let c=a.slice(0,i);
+        document.querySelector("#us").innerHTML=c;
+        i++;
+        }
+    }
+}
+klak();
+setInterval(klak,500*24);
+                $.getJSON ("kota.json", (result) => {
+                    console.log(result.city.length)
+                    for(let i=0; i<result.city.length; i++){
+                $("#a").append("<option value='"+ result.city[i].nama + "'>")
+                }
+                })
+                function klik(){
+                document.querySelector("#ket").innerHTML=""
+                $.getJSON ("kota.json", (result) => {
+                    let pil=document.querySelector("#c").value
+                    console.log(pil);
+                    for(let i=0; i<result.city.length; i++){
+                    if (pil==result.city[i].nama){
+                        $("#ket").append("<div id=d>"+result.city[i].nama + "</div>")
+                        $("#ket").append("<div> Jumlah Penduduk : "+ result.city[i].jumlah_pen +" jiwa</div>")
+                        $("#ket").append("<div> Fakta Unik : "+result.city[i].fakta_unik+"</div>")
+                    }
+                }
+                    
+                })
+            }
+        </script>
+</body>
+</html>
