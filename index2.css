@@ -1,0 +1,66 @@
+@font-face {
+    font-family: Mont;
+    src: url(Mont.otf);
+  }
+  body {
+   font-family: Mont;
+  }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    height: 50px;
+    background-color: #252A37;
+}
+li {
+    float: right;
+  }
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  #z {
+    position: absolute;
+    left: 120px;
+    top:50px;
+}
+#qq:hover {
+    color : red;
+  }
+#us {
+    color:yellow;
+    font-size: larger;
+}
+#tpl{
+    width: 500px;
+    margin: auto;
+    border: 1px solid black;
+    padding: 10px;
+}
+#d {
+    color: red;
+    font-size: larger;
+}
+#bdr {
+    position: absolute;
+    left: 20px;
+    top:40px;
+        
+}
+#br {
+    width: 70px;
+}
+#mrq {
+    position: absolute;
+    right: 200px;
+    top:170px;
+    width:700px;
+}
+#e {
+    width:1000px;
+    margin: auto;
+}
