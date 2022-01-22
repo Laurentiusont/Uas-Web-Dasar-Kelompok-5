@@ -11,8 +11,9 @@
     <ul>
         <li id="bdr"><img id="br" src="bendera.png"></li>
         <li id="z"><div id="us"></div></li>
-        <li><a id="qq" href="index1.html">Home</a></li>
+        <li><a id="qq" href="index3.html">City</a></li>
         <li><a id="qq" href="index2.html">Details</a></li>
+        <li><a id="qq" href="index1.html">Home</a></li>
     </ul> 
     <div id="e">
     <fieldset>
@@ -22,7 +23,7 @@
         <datalist id="a">
 
         </datalist>
-        <p><input type="submit" value="Sarch" onclick="klik()"></p>
+        <p><input type="submit" value="Search" onclick="klik()"></p>
         <div id="mrq"><marquee direction="left" id="gg"> Pilih negara bagian untuk menemukan informasi lengkap  </marquee></div>
     </fieldset>
     </div>
@@ -35,6 +36,7 @@
         </div>
     </div>
     <script>
+        $("#tpl").hide();
         function klak(){
         document.querySelector("#us").innerHTML="";
         for(let i=1;i<24;i++){
@@ -56,7 +58,9 @@ setInterval(klak,500*24);
                 }
                 })
                 function klik(){
+                $("#tpl").show();
                 document.querySelector("#ket").innerHTML=""
+                document.querySelector("#pet").innerHTML=""
                 $.getJSON ("kota.json", (result) => {
                     let pil=document.querySelector("#c").value
                     console.log(pil);
@@ -65,6 +69,7 @@ setInterval(klak,500*24);
                         $("#ket").append("<div id=d>"+result.city[i].nama + "</div>")
                         $("#ket").append("<div> Jumlah Penduduk : "+ result.city[i].jumlah_pen +" jiwa</div>")
                         $("#ket").append("<div> Fakta Unik : "+result.city[i].fakta_unik+"</div>")
+                        $("#pet").append("<iframe src='"+result.city[i].peta+"' width=600 height=450 style='border:0;' allowfullscreen='' loading=lazy></iframe>")
                     }
                 }
                     
