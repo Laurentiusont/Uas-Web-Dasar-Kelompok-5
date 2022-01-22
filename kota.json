@@ -1,0 +1,267 @@
+{
+    "city":[
+      {
+        "nama": "Maine",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2880528.4828970535!2d-71.22781786235342!3d45.16652391574985!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cb01dde1d538ad5%3A0xd679cc6f6720a8d0!2sMaine%2C%20Amerika%20Serikat!5e0!3m2!1sid!2sid!4v1642056197925!5m2!1sid!2sid",
+        "jumlah_pen": "1.331.479",
+        "fakta_unik" : "Negara bagian yang dikenal paling berperilaku baik"
+      },
+      {
+        "nama": "New Hampshire",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1469560.147174725!2d-72.68986572767633!3d43.995874629924764!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cb3444b9dc0a6eb%3A0xd7c802af25a680eb!2sNew%20Hampshire%2C%20Amerika%20Serikat!5e0!3m2!1sid!2sid!4v1642057158064!5m2!1sid!2sid" ,
+        "jumlah_pen": "1.334.795",
+        "fakta_unik" : "Memiliki angka kemiskinan paling rendah di Amerika Serikat."
+      },
+      {
+        "nama": "Vermont",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1472766.5933012718!2d-73.57519960392952!3d43.866248044140015!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cb4dc6c48daceff%3A0x264d897436546bb4!2sVermont%2C%20Amerika%20Serikat!5e0!3m2!1sid!2sid!4v1642056239705!5m2!1sid!2sid" ,
+        "jumlah_pen": "624.594",
+        "fakta_unik" : "Negara bagian dengan tingat lapangan kerja dan pendapatan terbaik."
+      },
+      {
+        "nama": "Massachusetts",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1469560.147174725!2d-72.68986572767633!3d43.995874629924764!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e3656de973bffd%3A0x45c6d03655830d1c!2sMassachusetts%2C%20Amerika%20Serikat!5e0!3m2!1sid!2sid!4v1642057200624!5m2!1sid!2sid" ,
+        "jumlah_pen": "6.811.779",
+        "fakta_unik" : "Negara bagian yang paling berpendidikan di Amerika Serikat. Lebih dari 40% penduduknya adalah sarjana"
+      },
+      {
+        "nama": "Connecticut",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d764985.606168171!2d-73.31928592086457!3d41.49939819652072!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e65311f21151a5%3A0xae9a6d5b056170e5!2sConnecticut%2C%20Amerika%20Serikat!5e0!3m2!1sid!2sid!4v1642056261641!5m2!1sid!2sid" ,
+        "jumlah_pen": "3.576.452",
+        "fakta_unik" : "Penduduknya memiliki gigi terbersih. Secara statistik mereka paling teratur mengunjungi dokter gigi."
+      },
+      {
+        "nama": "Rhode Island",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d382152.55470954254!2d-71.77877856191388!3d41.55697528215088!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e43514620ed70f%3A0x1e4e18bce7c106e7!2sPulau%20Rhode%2C%20Amerika%20Serikat!5e0!3m2!1sid!2sid!4v1642057230688!5m2!1sid!2sid" ,
+        "jumlah_pen": "1.056.426",
+        "fakta_unik" : "Penduduknya memiliki jumlah kecelakaan industri perkapita paling rendah."
+      },
+      {
+        "nama": "New York",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d193595.9159783719!2d-74.12010665639858!3d40.69740302652414!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sKota%20New%20York%2C%20New%20York%2C%20Amerika%20Serikat!5e0!3m2!1sid!2sid!4v1642056294050!5m2!1sid!2sid",
+        "jumlah_pen": "19.745.289",
+        "fakta_unik" : "Bukan cuma negara bagian terpadat di Amerika Serikat, tetapi juga merupakan tempat tinggal bagi sebagian besar presiden yakni 7 orang dan wakil presiden 11 orang."
+      },
+      {
+        "nama": "Pennsylvania",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1539099.3955644474!2d-78.72845471574134!3d41.1115224814201!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882d80261e32e589%3A0xc24621475022b43d!2sPennsylvania%2C%20Amerika%20Serikat!5e0!3m2!1sid!2sid!4v1642057254508!5m2!1sid!2sid", 
+        "jumlah_pen": "12.784.227",
+        "fakta_unik" : "Penanam jamur organik terbanyak di Amerika Serikat."
+      },
+      {
+        "nama": "Delaware",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d792154.9257504923!2d-75.94844022356236!3d39.143902523730944!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c705764d0cd63b%3A0x941d2d128c04e878!2sDelaware%2C%20Amerika%20Serikat!5e0!3m2!1sid!2sid!4v1642056310161!5m2!1sid!2sid",
+        "jumlah_pen": "952.065",
+        "fakta_unik" : "Terkenal dengan pajak penjualan yang rendah. Oleh sebab itu 60% dari 500 perusahaan fortune berkantor di sana."
+      },
+      {
+        "nama": "Maryland",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1592033.9873383734!2d-78.36074605788495!3d38.79943870532316!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b64debe9f190df%3A0xf2af37657655f6b1!2sMaryland%2C%20Amerika%20Serikat!5e0!3m2!1sid!2sid!4v1642057274704!5m2!1sid!2sid",
+        "jumlah_pen": "6.016.447",
+        "fakta_unik" : "Memiliki tingkat pendapatan rumah tangga terbaik dengan rata-rata 80.000 dollar amerika pertahun."
+      },
+      {
+        "nama": "Virginia",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3220267.2155940677!2d-81.66933274062085!3d37.98197846685023!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884cd670bdbcb2cd%3A0xc04e4149b746a695!2sVirginia%2C%20Amerika%20Serikat!5e0!3m2!1sid!2sid!4v1642057057345!5m2!1sid!2sid",
+        "jumlah_pen": "8.411.808",
+        "fakta_unik" : "Menjadi negara bagian dengan jumlah penderita asma terendah di Amerika Serikat."
+      },
+      {
+        "nama": "Virginia Barat",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1592033.9873383734!2d-78.36074605788495!3d38.79943870532316!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x884a54a5d4cb0945%3A0xbb00c768decd3a43!2sVirginia%20Bar.%2C%20Amerika%20Serikat!5e0!3m2!1sid!2sid!4v1642057364519!5m2!1sid!2sid",
+        "jumlah_pen": "1.792.000",
+        "fakta_unik" : "Memiliki tingkat kesenjangan terendah dalam hal pendidikan dan pendapatan."
+      },
+       {
+        "nama": "Carolina Utara",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3340570.5129978904!2d-82.10955050437848!3d35.14973956659077!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88541fc4fc381a81%3A0xad3f30f5e922ae19!2sCarolina%20Utara%2C%20Amerika%20Serikat!5e0!3m2!1sid!2sid!4v1642057086903!5m2!1sid!2sid",
+        "jumlah_pen": "10,49 juta",
+        "fakta_unik" : "Mendapatkan predikat negara bagian dengan kualitas pendidikan usia dini terbaik di Amerika."
+      },
+       {
+        "nama": "Carolina Selatan",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1701097.507967944!2d-82.05044281777612!3d33.61941485379669!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88f8a5697931d1e3%3A0xb9ffa132f505179e!2sCarolina%20Sel.%2C%20Amerika%20Serikat!5e0!3m2!1sid!2sid!4v1642057470611!5m2!1sid!2sid",
+        "jumlah_pen": "4.961.119",
+        "fakta_unik" : "Memproduksi energi nuklir perkapita terbanyak seAmerika."
+      },
+       {
+        "nama": "Georgia",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3021874.045391951!2d41.10949027987845!3d42.298822588305796!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40440cd7e64f626b%3A0x4f907964122d4ac2!2sGeorgia!5e0!3m2!1sid!2sid!4v1642057118057!5m2!1sid!2sid",
+        "fakta_unik" : "Surga buah persik dan memiliki jalan raya terbaik."
+      },
+       {
+        "nama": "Florida",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7246445.8895327!2d-88.30770993910835!3d27.52202377197757!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88c1766591562abf%3A0xf72e13d35bc74ed0!2sFlorida%2C%20Amerika%20Serikat!5e0!3m2!1sid!2sid!4v1642057568419!5m2!1sid!2sid",
+        "jumlah_pen": "20.612.439",
+        "fakta_unik" : "Mempunyai taman hiburan paling terkenal, tidak hanya di Amerika tetapi di dunia."
+      },
+       {
+        "nama": "Alabama",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3443583.142711768!2d-88.92942272589362!3d32.55620350647026!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88867f341f4bfe75%3A0x5e55343553c8cce9!2sAlabama%2C%20Amerika%20Serikat!5e0!3m2!1sid!2sid!4v1642057604736!5m2!1sid!2sid",
+        "jumlah_pen": "4.863.300",
+        "fakta_unik" : "Adalah negara bagian dengan permainan sepak bole tingkat Universitas terbaik. Univeritas-universitas disana memenangi total 16 kejuaraan sepak bola tingkat nasional."
+      },
+       {
+        "nama": "Louisiana",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1752248.933094006!2d-92.52472168825021!3d30.932475149933868!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8620a454b2118265%3A0xc955f73281e54703!2sLouisiana%2C%20Amerika%20Serikat!5e0!3m2!1sid!2sid!4v1642057656283!5m2!1sid!2sid",
+        "jumlah_pen": "4681.666",
+        "fakta_unik" : "Terkenal karena pelabuna Louisiana Selatan. Ini adalah pelabuhan terbesar di Amerika Serikat dan menangani 60% eksport biji-bijian di negara tersebut."
+      },
+       {
+        "nama": "Arkansa",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1752248.933094006!2d-92.52472168825021!3d30.932475149933868!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87d29e3f743f2761%3A0xa405693effdfd2d0!2sArkansas%2C%20Amerika%20Serikat!5e0!3m2!1sid!2sid!4v1642057694216!5m2!1sid!2sid",
+        "jumlah_pen": "2.988.248",
+        "fakta_unik" : "Adalah pecinta anjing. Negara ini memiliki tingkat kepemilikan anjing terbanyak di Amerika Serikat. 48% rumah tangga disana dilaporkan memiliki seekor anjing atau lebih."
+      },
+       {
+        "nama": "Tennessee",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3313261.652423206!2d-88.22712137800191!3d35.80957819568484!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x88614b239e97cf03%3A0x33e20c1a5819156!2sTennessee%2C%20Amerika%20Serikat!5e0!3m2!1sid!2sid!4v1642057756101!5m2!1sid!2sid",
+        "jumlah_pen": "6.651.194",
+        "fakta_unik" : "Memiliki gua dengan jumlah terbanyak di Amerika Serikat."
+      },
+       {
+        "nama": "Kentucky",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3228196.513418105!2d-88.0166573483525!3d37.80092048225841!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8842734c8b1953c9%3A0x771f6f4ec5ccdffc!2sKentucky%2C%20Amerika%20Serikat!5e0!3m2!1sid!2sid!4v1642057783699!5m2!1sid!2sid",
+        "jumlah_pen": "4.436.974",
+        "fakta_unik" : "Memiliki sistem gua terpanjang di dunia."
+      },
+       {
+        "nama": "Missouri",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3228196.513418105!2d-88.0166573483525!3d37.80092048225841!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87c0e6d54822e37d%3A0xb55bc4590466bd72!2sMissouri%2C%20Amerika%20Serikat!5e0!3m2!1sid!2sid!4v1642057814612!5m2!1sid!2sid",
+        "jumlah_pen": "6.093.000",
+        "fakta_unik" : "Memiliki harga gas yang paling rendah di Amerika."
+      },
+       {
+        "nama": "Kansas",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3207004.242078697!2d-94.68549058262056!3d38.28319977451124!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87a31771717c016b%3A0x68c2b4a94b3e095f!2sKansas%2C%20Amerika%20Serikat!5e0!3m2!1sid!2sid!4v1642057839956!5m2!1sid!2sid",
+        "jumlah_pen": "2.907.289",
+        "fakta_unik" : "Adalah produsen gandum terbesar seAmerika Serikat."
+      },
+       {
+        "nama": "Nebraska",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3198411.6401078557!2d-100.56845900186947!3d38.47728324346868!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87938dc8b50cfced%3A0xa127900c0ff30ac4!2sNebraska%2C%20Amerika%20Serikat!5e0!3m2!1sid!2sid!4v1642057874508!5m2!1sid!2sid",
+        "jumlah_pen": "1.907.116",
+        "fakta_unik" : "Adalah rumah dari jaringan listrik paling andal di Amerika Serikat."
+      },
+       {
+        "nama": "Dakota Selatan",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2929456.0271090097!2d-102.49522496975575!3d44.19065113803427!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x877d432d85e938a5%3A0x7f0d6293186a4b7!2sDakota%20Sel.%2C%20Amerika%20Serikat!5e0!3m2!1sid!2sid!4v1642057898155!5m2!1sid!2s",
+        "jumlah_pen": "884.659",
+        "fakta_unik" : "Adalah tempat yang pas bagi pemburu. 26% penduduknya turut serta dalam hobi ini."
+      },
+       {
+        "nama": "Dakota Utara",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2763019.7623491464!2d-102.55013591681583!3d47.44584206087169!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52d7831257d8e963%3A0xd849a39835ecfc9!2sDakota%20Utara%2C%20Amerika%20Serikat!5e0!3m2!1sid!2sid!4v1642057934730!5m2!1sid!2sid",
+        "jumlah_pen": "757.952",
+        "fakta_unik" : "Merupakan negara bagian dengan kualitas hidup terbaik di Amerika dengan pertumbuhan ekonomi paling pesat."
+      },
+       {
+        "nama": "Minnesota",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2816467.357894573!2d-95.60943500750474!3d46.41983262786886!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4d585b9a60780b9b%3A0x2a2c99b10fea20f!2sMinnesota%2C%20Amerika%20Serikat!5e0!3m2!1sid!2sid!4v1642057969627!5m2!1sid!2sid",
+        "jumlah_pen": "5.519.952",
+        "fakta_unik" : "Penduduk lebih banyak menghasilkan uang untung rekreasi dibandingkan negara bagian lain di Amerika Serikat."
+      },
+       {
+        "nama": "Iowa",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1519687.8061018176!2d-94.51354581598011!3d41.93283764750839!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87ee5e6ff1f86019%3A0xc6ef634a57c759d9!2sIowa%2C%20Amerika%20Serikat!5e0!3m2!1sid!2sid!4v1642057998075!5m2!1sid!2sid",
+        "jumlah_pen": "3.134.693",
+        "fakta_unik" : "Mendapatkan predikat negara bagian paling layak huni."
+      },
+       {
+        "nama": "Wisconsin",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1519687.8061018176!2d-94.51354581598011!3d41.93283764750839!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x52a8f40f9384e3af%3A0xf2d5d5b8f88649d6!2sWisconsin%2C%20Amerika%20Serikat!5e0!3m2!1sid!2sid!4v1642058027870!5m2!1sid!2sid",
+        "jumlah_pen": "5.778.708",
+        "fakta_unik" : "Negara bagian yang terbaik dalam hal memproduksi keju."
+      },
+       {
+        "nama": "Michigan",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2890005.5287170745!2d-88.51857143748353!3d44.9788051723844!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4d4caa3dc7ca0411%3A0x97dd48597a62c9b3!2sMichigan%2C%20Amerika%20Serikat!5e0!3m2!1sid!2sid!4v1642058046930!5m2!1sid!2sid",
+        "jumlah_pen": "9.928.300",
+        "fakta_unik" : "Memiliki lapangan golf perkapita terbanyak dibandingan negara bagian lain di Amerika Serikat"
+      },
+       {
+        "nama": "Ohio",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3114017.1936827553!2d-84.91753144074622!3d40.34162690997021!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8836e97ab54d8ec1%3A0xe5cd64399c9fd916!2sOhio%2C%20Amerika%20Serikat!5e0!3m2!1sid!2sid!4v1642058071530!5m2!1sid!2sid",
+        "jumlah_pen": "11.614.373",
+        "fakta_unik" : "Memiliki tingkat penggunaan perpustakaan paling tinggi di Amerika Serikat."
+      },
+       {
+        "nama": "Indiana",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3141394.4422285375!2d-88.68958895050238!3d39.74486172392471!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x886b50bcd9f81b1d%3A0x7e102fcecb32ec72!2sIndiana%2C%20Amerika%20Serikat!5e0!3m2!1sid!2sid!4v1642058102140!5m2!1sid!2sid",
+        "jumlah_pen": "6.633.053",
+        "fakta_unik" : "Negara bagian yang paling baik dalam hal olahraga basket tingkat sekolah menengah atas."
+      },
+       {
+        "nama": "Illinois",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3141394.4422285375!2d-88.68958895050238!3d39.74486172392471!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880b2d386f6e2619%3A0x7f15825064115956!2sIllinois%2C%20Amerika%20Serikat!5e0!3m2!1sid!2sid!4v1642058116224!5m2!1sid!2sid",
+        "jumlah_pen": "12.801.539",
+        "fakta_unik" : "Memiliki sekolah negeri terbaik seAmerika Serikat."
+      },
+       {
+        "nama": "Texas",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6997378.923848006!2d-104.5789307275435!3d31.090578769706287!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864070360b823249%3A0x16eb1c8f1808de3c!2sTexas%2C%20Amerika%20Serikat!5e0!3m2!1sid!2sid!4v1642058140367!5m2!1sid!2sid",
+        "jumlah_pen": "27.862.596",
+        "fakta_unik" : "Adalah negara bagian terbesar yang memproduksi energi paling banyak."
+      },
+       {
+        "nama": "Arizona.",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3381185.304244372!2d-114.17813260136347!3d34.147908500833076!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b08ebcb4c186b%3A0x423927b17fc1cd71!2sArizona%2C%20Amerika%20Serikat!5e0!3m2!1sid!2sid!4v1642058162562!5m2!1sid!2sid",
+        "jumlah_pen": "6.931.071",
+        "fakta_unik" : "Adalah negara bagian Amerika Serikat yang paling hangat."
+      },
+       {
+        "nama": "Colordao",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3381185.304244372!2d-114.17813260136347!3d34.147908500833076!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x874014749b1856b7%3A0xc75483314990a7ff!2sColorado%2C%20Amerika%20Serikat!5e0!3m2!1sid!2sid!4v1642058191026!5m2!1sid!2sid",
+        "jumlah_pen": "5.540.545",
+        "fakta_unik" : "Adalah negara bagian paling sehat dengan tingkat obesitas hanya 22%."
+      },
+       {
+        "nama": "Wyoming",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2988853.77939595!2d-109.79813802023106!3d42.98243343120119!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x875ee23448e12e69%3A0x26b02279d27d382f!2sWyoming%2C%20Amerika%20Serikat!5e0!3m2!1sid!2sid!4v1642058195748!5m2!1sid!2sid",
+        "jumlah_pen": "585.501",
+        "fakta_unik" : "Adalah negara bagian dengan populasi penduduk paling sedikit. Hanya 579.000 penduduk yang tinggal di wilayah ini."
+      },
+       {
+        "nama": "Montana",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5614362.8756208345!2d-114.5343119202233!3d46.59933225581441!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x53412b9c2d7b8ad3%3A0xf571d658cf2a6c18!2sMontana%2C%20Amerika%20Serikat!5e0!3m2!1sid!2sid!4v1642058136330!5m2!1sid!2sid",
+        "jumlah_pen": "1.042.520",
+        "fakta_unik" : "Memiliki tingkat kelulusan SMA paling tinggi di Amerika Serikat yaitu 93%."
+      },
+       {
+        "nama": "Idaho",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5735963.426955634!2d-118.63326265742376!3d45.41411064009146!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5358ffa885e499e9%3A0xd06b300515f78758!2sIdaho%2C%20Amerika%20Serikat!5e0!3m2!1sid!2sid!4v1642058095537!5m2!1sid!2sid",
+        "jumlah_pen": "1.683.140",
+        "fakta_unik" : "Adalah negara bagian dengan wiraswasta terbanyak di Amerika Serikat."
+      },
+       {
+        "nama": "Nevada",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6401478.817975926!2d-121.51575247224213!3d38.42478716448859!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80990aa1f8deb471%3A0xcf47038aaafc95b3!2sNevada%2C%20Amerika%20Serikat!5e0!3m2!1sid!2sid!4v1642058051036!5m2!1sid!2sid",
+        "jumlah_pen": "2.940.058",
+        "fakta_unik" : "Memiliki tingkat kehidupan malam tertinggi."
+      },
+       {
+        "nama": "California",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6509167.682012511!2d-123.79975055493213!3d37.1929955926075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x808fb9fe5f285e3d%3A0x8b5109a227086f55!2sCalifornia%2C%20Amerika%20Serikat!5e0!3m2!1sid!2sid!4v1642057939541!5m2!1sid!2sid",
+        "jumlah_pen": "39.250.017",
+        "fakta_unik" : "Memiliki populasi terpadat sekaligus penyumbang ekonomi terbesar di Amerika. Jika menjadi sebuah negara, California akan memiliki ekonomi terbesar ke-5 di dunia."
+      },
+       {
+        "nama": "Washington",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2773037.7129986207!2d-123.12555455241838!3d47.25483034507337!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5485e5ffe7c3b0f9%3A0x944278686c5ff3ba!2sWashington%2C%20Amerika%20Serikat!5e0!3m2!1sid!2sid!4v1642057824791!5m2!1sid!2sid",
+        "jumlah_pen": "7.288.000",
+        "fakta_unik" : "Negara bagian paling ramah sepeda sekaligus ramah bekicot."
+      },
+       {
+        "nama": "Alaska",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d16268875.969489673!2d-176.488883334617!3d60.14850402161272!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5400df9cc0aec01b%3A0xbcdb5e27a98adb35!2sAlaska%2C%20Amerika%20Serikat!5e0!3m2!1sid!2sid!4v1642057772819!5m2!1sid!2sid",
+        "jumlah_pen": "741.894",
+        "fakta_unik" : "Memiliki kesetaraan ekonomi paling tinggi di Amerika Serikat."
+      },
+       {
+        "nama": "Hawaii",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3828071.888011387!2d-159.74977806662406!3d20.450753266492722!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7bffdb064f79e005%3A0x4b7782d274cc8628!2sHawaii%2C%20Amerika%20Serikat!5e0!3m2!1sid!2sid!4v1642057729202!5m2!1sid!2sid",
+        "jumlah_pen": "1.428.557",
+        "fakta_unik" : "Memiliki pelayanan kesehatan terbaik dan angka harapan hidup tertinggi. Dan merupakan negara bagian dengan biaya hidup termahal di Amerika."
+      }
+    ]
+}
