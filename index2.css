@@ -4,6 +4,8 @@
   }
   body {
    font-family: Mont;
+   background-image: url(bg2.jpg);
+   background-size: 40%;
   }
 ul {
     list-style-type: none;
@@ -18,7 +20,7 @@ li {
   }
 li a {
     display: block;
-    color: white;
+    color: #f1f1f1;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -29,20 +31,21 @@ li a {
     top:50px;
 }
 #qq:hover {
-    color : red;
+    color : maroon;
   }
 #us {
     color:yellow;
     font-size: larger;
 }
 #tpl{
-    width: 500px;
+    width: 600px;
     margin: auto;
-    border: 1px solid black;
     padding: 10px;
+    background-color: white;
+    margin-top: 20px;
 }
 #d {
-    color: red;
+    color: #bf0a30;
     font-size: larger;
 }
 #bdr {
@@ -56,11 +59,16 @@ li a {
 }
 #mrq {
     position: absolute;
-    right: 200px;
+    right: 22%;
     top:170px;
-    width:700px;
+    width:350px;
+    color:yellow
 }
 #e {
-    width:1000px;
+    width:60%;
     margin: auto;
+    color: #bf0a30
+}
+#ket{
+  background-color: #f1f1f1;
 }
