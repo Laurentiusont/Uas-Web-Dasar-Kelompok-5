@@ -59,5 +59,23 @@
 }
 klak();
 setInterval(klak,500*24);
+        function klik(id){
+                document.querySelector("#klik").innerHTML=""
+                $.getJSON ("5kota.json", (result) => {
+                  $("#klik").show();
+                    let pil=document.querySelector("#k"+ id).innerHTML
+                    console.log(pil);
+                    for(let i=0; i<result.city.length; i++){
+                    if (pil==result.city[i].nama){
+                        $("#klik").append("<div id='d'>"+result.city[i].nama + "</div>")
+                        $("#klik").append("<iframe src='"+result.city[i].peta+"' width=600 height=450 style='border:0;' allowfullscreen='' loading=lazy></iframe><br>")
+                        $("#klik").append("<div><br> Jumlah Penduduk : "+ result.city[i].jumlah_pen +" jiwa<br></div>")
+                        $("#klik").append("<div><br>Penjelasan : <br><br>"+ result.city[i].penjelasan +"</div>")
+                    }
+                }
+                  window.scrollTo(0,document.querySelector("body").scrollHeight);   
+                })
+            }
+  </script>
      </body>
 </html>
