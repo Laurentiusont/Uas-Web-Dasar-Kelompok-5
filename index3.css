@@ -1,0 +1,145 @@
+@font-face {
+    font-family: Mont;
+    src: url(Mont.otf);
+  }
+  body {
+   font-family: Mont;
+   background-color: #002868;
+  }
+ul {
+       list-style-type: none;
+       margin: 0;
+       padding-top: 30px;
+       padding-bottom: 30px;
+       height: 50px;
+       background-color: #252A37;
+   }
+   li {
+       float: right;
+     }
+   li a {
+       display: block;
+       color: white;
+       text-align: center;
+       padding: 14px 16px;
+       text-decoration: none;
+     }
+     img {
+       width: 90px;
+     }
+#z {
+    position: absolute;
+    left: 120px;
+    top:50px;
+    }
+#qq:hover {
+    color : red;
+     }
+#bdr {
+    position: absolute;
+    left: 20px;
+    top:40px;
+        
+}
+#br {
+    width: 70px;
+}
+#us {
+    color:yellow;
+    font-size: larger;
+}
+  #aa {
+    float : left;
+    width: 20%;
+    margin-left: 18%;
+    margin-top: 30px;
+    transition: 2s;
+  }
+  #aa:hover {
+  width: 400px;
+  }
+  #bb:hover {
+  width: 400px;
+  }
+  #cc:hover {
+  width: 400px;
+  }
+  #dd:hover {
+  width: 400px;
+  }
+  #ee:hover {
+  width: 400px;
+  }
+  #ff:hover {
+  width: 400px;
+  }
+  #bb {
+    float : left;
+    width: 20%;
+    margin-left:2%;
+    margin-top: 30px;
+    transition: 2s;
+  }
+  #cc {
+    float : left;
+    width: 20%;
+    margin-left: 2%;
+    margin-top: 30px;
+    transition: 2s;
+  }
+    img.gg{
+      width: 100%;
+    }
+    #dd{
+    float : right;
+    width: 20%;
+    margin-right: 29%;
+    margin-top: 30px;
+    transition: 2s;
+    }
+      #ee{
+    float : right;
+    width: 20%;
+    margin-right: 2%;
+    margin-top: 30px;
+    transition: 2s;
+    }
+        p:hover {
+      color : red;
+    }
+        p {
+        text-decoration: unset;
+        color: white;
+        text-align: center;
+        
+      }
+      #klik {
+            width: 700px;
+            height: 500px;
+            overflow:auto;
+            margin: auto;
+            color: lightblue;
+            text-align: justify;
+            padding: 10px;
+            margin-top: 20px;
+      }
+      #d {
+        font-size: 40px;
+        color: white;
+      }
+      #btt {
+    border-radius: 100%;
+    width : 80px;
+    background-color: #5f0f40;
+    position: fixed;
+    right: 20px;
+    bottom: 10px;
+    padding-top: 19px;
+    padding-bottom: 19px;
+    text-align: center;
+    margin: unset;
+}
+#k {
+    color: #e36414;
+    text-decoration: none;
+}
