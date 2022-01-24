@@ -8,11 +8,13 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
      </head>
   <body>
-<ul>
-    <li id="z"><a href="halaman2.html"></a></li>
-        <li><a id="qq" href="index2.html">Home</a></li>
-        <li><a id="qq" href="halamanabout.html">About</a></li>
-</ul> 
+    <ul>
+        <li id="bdr"><img id="br" src="bendera.png"></li>
+        <li id="z"><div id="us"></div></li>
+        <li><a id="qq" href="index3.html">City</a></li>
+        <li><a id="qq" href="index2.html">Details</a></li>
+        <li><a id="qq" href="index1.html">Home</a></li>
+    </ul> 
 <div id="a">
   Database Populasi<br>
   USA<br>
@@ -52,8 +54,22 @@
   </table>
 
    <div id="c">
-  <a  href="halaman2.html">More</a></div>
+  <a  href="index2.html">More</a></div>
   <script>
+            function klak(){
+        document.querySelector("#us").innerHTML="";
+        for(let i=1;i<24;i++){
+        setTimeout(jalan,500*i);
+        function jalan(){
+        let a="UNITED STATE POPULATION";
+        let c=a.slice(0,i);
+        document.querySelector("#us").innerHTML=c;
+        i++;
+        }
+    }
+}
+klak();
+setInterval(klak,500*24);
     $.getJSON("https://datausa.io/api/data?drilldowns=Nation&measures=Population",(result) => {
     for (let i=0;i<result.data.length;i++){
     $("#a"+i).append(result.data[i].Year)  
