@@ -30,5 +30,34 @@
       <p id="kc">Chicago</p>
     </div>
     
+    <div id="dd" onclick="klik('d')">
+      <img class="gg" src="houston2.jpg">
+      <p id="kd">Houston</p>
+    </div>
+
+    <div id="ee" onclick="klik('e')">
+      <img class="gg" src="philadelpia.jpeg">
+      <p id="ke">Philadelpia</p>
+    </div>
+    <div id="klik">
+      
+    </div>
+
+      <script>
+        $("#klik").hide();
+        function klak(){
+        document.querySelector("#us").innerHTML="";
+        for(let i=1;i<24;i++){
+        setTimeout(jalan,500*i);
+        function jalan(){
+        let a="UNITED STATE POPULATION";
+        let c=a.slice(0,i);
+        document.querySelector("#us").innerHTML=c;
+        i++;
+        }
+    }
+}
+klak();
+setInterval(klak,500*24);
      </body>
 </html>
