@@ -1,0 +1,35 @@
+{
+    "city":[
+      {
+        "nama": "New York",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d387193.305935303!2d-74.25986548248684!3d40.69714941932609!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sKota%20New%20York%2C%20New%20York%2C%20Amerika%20Serikat!5e0!3m2!1sid!2sid!4v1642405124754!5m2!1sid!2sid",
+        "jumlah_pen": "1.331.479",
+        "penjelasan": "Kota New York adalah kota terpadat di Amerika Serikat, dan pusat wilayah metropolitan New York yang merupakan salah satu wilayah metropolitan terpadat di dunia. Sebuah kota global terdepan, New York memberi pengaruh besar terhadap perdagangan, keuangan, media, budaya, seni, mode, riset, penelitian dan hiburan dunia."
+
+      },
+      {
+        "nama": "Los Angeles",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d423286.27405770525!2d-118.69192047471653!3d34.02016130653294!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2c75ddc27da13%3A0xe22fdf6f254608f4!2sLos%20Angeles%2C%20California%2C%20Amerika%20Serikat!5e0!3m2!1sid!2sid!4v1642405003161!5m2!1sid!2sid",
+        "jumlah_pen": "1.331.479",
+        "penjelasan": "Los Angeles dengan jumlah penduduk sebanyak 3.792.621 jiwa sesuai Sensus Amerika Serikat 2010, adalah kota terpadat di negara bagian California, dan kota terpadat kedua di Amerika Serikat, setelah New York City. Luasnya mencapai 468,67 mil persegi, dan terletak di California Selatan."
+      },
+      {
+        "nama": "Chicago",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2880528.4828970535!2d-71.22781786235342!3d45.16652391574985!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cb01dde1d538ad5%3A0xd679cc6f6720a8d0!2sMaine%2C%20Amerika%20Serikat!5e0!3m2!1sid!2sid!4v1642056197925!5m2!1sid!2sid",
+        "jumlah_pen": "1.331.479",
+        "penjelasan":"adalah kota terbesar di negara bagian Amerika Serikat Illinois, didirikan pada 12 Agustus 1833. Termasyhur untuk peternakan dan area industrinya yang tersebar, pelabuhannya yang strategis di Danau Besar, posisinya sebagai pusat jaringan KA terpenting di AS bagian utara, dan semangatnya yang tak kunjung padam selama Kebakaran Besar 1871.Ukuran Chicago kini-± 762 mil2 (1.973 km2)-berkembang dari pos perdagangan di sini oleh John Kinzie pada 1796.Gedung pencakar langit yang diperkuat baja berasal dari Chicago.Tumbuh menjadi kota terkemuka abad 19 karena letak dan posisi pentingnya sebagai pusat transportasi, Chicago ditunjuk menyelenggarakan Ekspo Kolumbia Dunia 1893, mengalahkan bahkan NYC dan Washington DC."
+      },
+      {
+        "nama": "Houston",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2880528.4828970535!2d-71.22781786235342!3d45.16652391574985!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cb01dde1d538ad5%3A0xd679cc6f6720a8d0!2sMaine%2C%20Amerika%20Serikat!5e0!3m2!1sid!2sid!4v1642056197925!5m2!1sid!2sid",
+        "jumlah_pen": "1.331.479",
+        "penjelasan": "Houston adalah kota terbesar keempat di Amerika Serikat dan kota terbesar di negara bagian Texas. Pada sensus tahun 2008 kota ini memiliki populasi 2,3 juta di wilayah seluas 600 mil persegi (1600 kilometer persegi).[1] Houston merupakan ibu kota county dari Harris County dan merupakan pusat ekonomi untuk kawasan metropolitan Houston–Sugar Land–Baytown terbesar keenam di Amerika Serikat dengan populasi kira-kira 6 juta jiwa."
+      },
+      {
+        "nama": "Philadelpia",
+        "peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d195600.53372844134!2d-75.25811444995348!3d40.00267668297271!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6b7d8d4b54beb%3A0x89f514d88c3e58c1!2sPhiladelphia%2C%20Pennsylvania%2C%20Amerika%20Serikat!5e0!3m2!1sid!2sid!4v1642404941143!5m2!1sid!2sid",
+        "jumlah_pen": "1.547.607",
+        "penjelasan":"Philadelphia adalah kota mural Pada tahun 70-an sampai 80-an, tata kota Philadelphia ini sangat berantakan. Pada akhirnya di tahun 80-an, pemerintah kota akhirnya mempunyai solusi yaitu membuat Mural Arts Program. Dengan adanya program ini, setidaknya pada tahun 2015 kemarin sudah ada 3,800 mural yang tersebar dengan sangat bagus di seluruh kota Philly. Dengan ini bisa disebut bahwa Philadelphia adalah kota mural."
+      }
+          ]
+}
